@@ -2,7 +2,7 @@
 title = Compare Translucency Of Different Objects
 description = Compare Translucency Of Different Objects.
 amt_keywords = Computer Vision, Translucency
-lifetime = 24
+lifetime = 72
 us_only = true
 approve_requirement = 95
 number_hits_approved = 0
@@ -15,7 +15,7 @@ browser_exclude_rule = MSIE, mobile, tablet
 allow_repeats = false
 
 [Database Parameters]
-database_url = postgres://fhnkadshlhluhr:ed5462dd6ac107d8633c58ba0a655fc7411c652663789b246e5eab23c19a5e01@ec2-34-196-34-158.compute-1.amazonaws.com:5432/danhm6ll3umd5i
+database_url = postgres://ktechnfukyfmwa:cacd1229d8a9b1a73739e594d6a4204dc92a544bb7d44c436b3d82358ecbb4e6@ec2-35-171-57-132.compute-1.amazonaws.com:5432/dbb21gnhaaep2j
 table_name = turkdemo
 
 [Server Parameters]
@@ -31,7 +31,7 @@ threads = 1
 secret_key = 'this is my secret key which is hard to guess, i should change this'
 #certfile = <path_to.crt> 
 #keyfile = <path_to.key>
-#adserver_revproxy_host = https://morning-spire-74103.herokuapp.com/
+#adserver_revproxy_host = https://frozen-shore-68998.herokuapp.com/
 #adserver_revproxy_port = 80 # defaults to 80
 #server_timeout = 30
 
@@ -50,4 +50,4 @@ persistent_history_file = .psiturk_history
 #   https://<host>:<port>/ad 
 
 use_psiturk_ad_server = false
-ad_location = https://morning-spire-74103.herokuapp.com/pub
+ad_location = https://frozen-shore-68998.herokuapp.com/pub
